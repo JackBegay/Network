@@ -15,7 +15,7 @@ Using Cisco's Packet Tracer, my goal was to create a mock network that could be 
 1. First I put the router at site 2 holding the HTTP and DNS servers, which needed a dual port for the WAN interface cards to connect to both of the other routers. I configured the router using the CLI and typed in the IP address for site 2, as well as the IP addresses for both the serial connections to the two other sites.
    
 ![Screenshot 2025-05-07 174405](https://github.com/user-attachments/assets/cb9f61b1-af9e-4ed6-b2e3-062eee3294cc)
-
+<br>
 3. The other two routers were configured similarly with site 1 using IP address 192.168.4.1 and site 3 using 192.168.3.1 . Once configured I also connected the routers directly to site 2 using serial cables and input the serial ip addresses for both.
 
 ![Screenshot 2025-05-08 124914](https://github.com/user-attachments/assets/96a34f9b-0e78-429b-8c1a-49597e8b4df2)
