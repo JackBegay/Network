@@ -34,6 +34,8 @@ Using Cisco's Packet Tracer, my goal was to create a mock network that could be 
 
 ![Screenshot 2025-05-08 134713](https://github.com/user-attachments/assets/586893c2-d43f-49a3-8cf0-6ca63663e6aa)
 <br>
-6. Lastly I need to test if I can ping a server from a router at a different site. I tested the DHCP server at site 3 from the router at site 1 and did the opposite for the DHCP server and site 1 from the router at site 3 as well.
+6. Lastly I need to test if all devices have an IP address and that I can ping a server from a router at a different site. I was able to see that computers from both sites were able to obtain their own IP addresses without issue. I then tested the DHCP server at site 3 from the router at site 1 and did the opposite for the DHCP server and site 1 from the router at site 3 as well.
 
+![Screenshot 2025-05-08 140911](https://github.com/user-attachments/assets/6f1085e0-a843-41d2-aa6e-acc5032a43a9)
 ![Screenshot 2025-05-08 135219](https://github.com/user-attachments/assets/1e6b6fa0-1d18-4396-b291-a8db769985c0)
+
